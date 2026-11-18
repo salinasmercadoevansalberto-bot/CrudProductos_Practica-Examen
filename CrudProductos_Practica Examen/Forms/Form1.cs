@@ -6,5 +6,10 @@ namespace CrudProductos_Practica_Examen
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

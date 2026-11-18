@@ -1,8 +1,8 @@
-﻿
+﻿using Microsoft.Data.SqlClient;
 using System.Data;
-using Microsoft.Data.SqlClient;
+using System.Xml.Linq;
 
-namespace Sistema_de_Gestion_de_Productos_.Clases
+namespace CrudProductos_Practica_Examen.Data
 {
     public class ConexionBD
     {
