@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace CrudProductos_Practica_Examen.Forms
 {
-    public partial class Form1 : Form
+    public partial class FormLogins : Form
     {
-        public Form1()
+        public FormLogins()
         {
             InitializeComponent();
         }
